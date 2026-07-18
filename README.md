@@ -5,7 +5,7 @@
 **Thesis Project by Group MiMiMiCh**
  
 ## Team Members
-- Anton Miguelle Catap
+- Antonne Miguelle Catap
 - Christian Luis Esguerra
 - Michael Orenze
 - Micharl Lance Tan Feliz
@@ -35,27 +35,15 @@
 #### 1. Clone & Setup
 #### 2. Install Dependencies
 #### 3. Configure
-#### 4. (Optional) Upload Arduino Sketch
-#### 5. Run Inference
+#### 4. Run Inference
 
 ## Project Structure
 
 ## Key Features
 
-### 1. **Robust Temporal Tracking**
-### 2. **Noise-Resilient Detection**
-### 3. **Edge-Friendly Design**
-### 4. **Hardware Integration**
-### 5. **Production-Ready Code**
-
 ## Configuration Parameters
 
 ## Troubleshooting
-
-### Arduino Not Detected
-### Low FPS
-### Too Many False Positives
-### Tracking Loses Objects
 
 ## Evaluation Metrics
 
